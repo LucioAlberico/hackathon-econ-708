@@ -21,8 +21,8 @@ Si sube más el tipo de cambio que el IPIM --> ¿Mayor porcentaje de la producci
 [IPIM](https://www.indec.gob.ar/ftp/cuadros/economia/sint_met_sipm.pdf) --> Tiene por objeto medir la evolución promedio de los precios a los que el productor y/o importador directo vende sus productos en el mercado doméstico.
 
 ### Variables de Interés
-* IPIM y Dolar
-* Consumo Interno y Exportaciones, expresado como porcentajes relativos. Consumo Interno (%) = Consumo Interno / Consumo Interno + Exportaciones
+* IPIM y Dolar.
+* Consumo Interno y Exportaciones, expresado como porcentajes relativos. Consumo Interno (%) = Consumo Interno / Producción Total.
 
 **Análisis**:
 * Análsis de regresión entre el IPIM y el Consumo Interno (expresado en pct).
