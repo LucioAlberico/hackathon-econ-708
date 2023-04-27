@@ -5,8 +5,7 @@ Grupo 4, Tema A.
 CHEQUEAR TILDES Y ESCRITURA CHEQUEAR TILDES Y ESCRITURA CHEQUEAR TILDES Y ESCRITURA CHEQUEAR TILDES Y ESCRITURA CHEQUEAR TILDES Y ESCRITURA
 
 ## Consigna
-Nos fue dado este [dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) con la consigna de realizar una analisis exploratorio de los
-datos y sacar alguna conclusión que nos pareciera de relevancia. 
+Nos fue dado este [dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) acerca de la producción bovina y agricola con la consigna de realizar una analisis exploratorio de los datos y sacar alguna conclusión que nos pareciera de relevancia. 
 
 Para poder seguir de mejor manera el análisis realizado recomendamos descargar el script y correrlo en su computadora.
 
