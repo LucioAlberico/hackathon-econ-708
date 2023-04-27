@@ -50,5 +50,4 @@ A partir del analisis visual que nos brinda el [grafico 2](https://raw.githubuse
 
 ## Aclaraciones
 * Debido a la falta de tiempo, no pudimos realizar un análisis completo, pero comprendemos que deberiamos incluir datos acerca de la inflación, las restricciones por parte del gobierno a las exportaciones y los precios internacionales de las commodities (principalmente del ganado) para realizar un analisis concluyente.
-* DESCARGAR GRAFICOS PARA MEJOR VISUALIZACIÓN.
 * Para fines presentativos hubiese sido mejor utilizar jupyter notebook, pero no nos dio el tiempo.
