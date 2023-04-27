@@ -24,7 +24,7 @@ Si sube más el tipo de cambio que el IPIM --> ¿Mayor porcentaje de la producci
 * IPIM y Dolar
 * Consumo Interno y Exportaciones, expresado como porcentajes relativos. Consumo Interno (%) = Consumo Interno / Consumo Interno + Exportaciones
 
-Analisis:
+**Análisis**:
 * Análsis de regresión entre el IPIM y el Consumo Interno (expresado en pct).
 * Análisis de regresión entre Dólar y Exportaciones (expresadas en pct).
 
