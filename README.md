@@ -29,9 +29,11 @@ Analisis:
 * Análisis de regresión entre Dólar y Exportaciones (expresadas en pct).
 
 ### Conclusión 1 (Primera Parte)
-Al ver el grafico_1a (relación entre el Dólar y las Exportaciones) podemos pensar que nuestra hipótesis es correcta. Sin embargo, analizando el grafico_1b (relación entre el IPIM y el Consumo Interno) nos damos cuenta que la correlacion entre el dolar y las exportaciones parece estar dada por una coincidencia temporal mas que otra cosa. MAL ESCRITO.
+Al ver el [grafico_1a](https://raw.githubusercontent.com/LucioAlberico/hackathon-econ-708/main/grafico_1a.png) (relación entre el Dólar y las Exportaciones) podemos pensar que nuestra hipótesis es correcta. Sin embargo, analizando el [grafico_1b](https://raw.githubusercontent.com/LucioAlberico/hackathon-econ-708/main/grafico_1b.png) (relación entre el IPIM y el Consumo Interno) nos damos cuenta que *la correlacion entre el dolar y las exportaciones parece estar dada por una coincidencia temporal ya que la contraparte del supuesto (correlacion positiva entre IPIM y Consumo Interno) no se cumple*. Llegamos a esta conclusión porque consideramos que el aumento constante del IPIM y el tipo de cambio esta dado por la inflación, una variable fuertemente ligada al paso del tiempo.
 
-Nuevo Analisis.
+
+### Conclusión 2 (Segunda Parte)
+Nuevo Analisis: Buscamos comprender si hay algun tipo de relación temporal entre las variaciones porcentuales que se le
 
 * Analsis temporal del consumo interno y las exportaciones FALTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
@@ -42,10 +44,11 @@ Analizar como influye el tipo de cambio en la produccion total. ¿A mayor tipo d
 Para analizar esto haremos un analisis de regresion entre la variable "total producido" y "dolar".
 
 ### Conclusión 2
-A partir del analisis visual que nos brinda el [grafico 2](https://github.com/LucioAlberico/hackathon-econ-708/blob/main/grafico_2.png) (descargar para mejor visualización). Podemos ver que *existe una correlación positiva entre el precio del dolar y el total producido*. De todas maneras, existe mucha variación entre el total producido a mismos niveles de dolar como para considerarlo un análisis concluyente.
+A partir del analisis visual que nos brinda el [grafico 2](https://raw.githubusercontent.com/LucioAlberico/hackathon-econ-708/main/grafico_2.png) (Relación entre total producido y valor del tipo de cambio). Podemos ver que *existe una correlación positiva entre el tipo de cambio y el total producido*. De todas maneras, existe mucha variación entre el total producido a mismos niveles de dolar como para considerarlo un análisis concluyente.
 
 
-Para fines presentativos hubiese sido mejor utilizar jupyter notebook, pero no nos dio el tiempo.
 
-## Aclaración
-Debido a la falta de tiempo, no pudimos realizar un análisis completo, pero comprendemos que deberiamos incluir cuestiones como la inflación, las restricciones por parte del gobierno a las exportaciones y los precios de las comoditties (principalmente del ganado) a nivel internacional.
+## Aclaraciones
+* Debido a la falta de tiempo, no pudimos realizar un análisis completo, pero comprendemos que deberiamos incluir datos acerca de la inflación, las restricciones por parte del gobierno a las exportaciones y los precios internacionales de las commodities (principalmente del ganado) para realizar un analisis concluyente.
+* DESCARGAR GRAFICOS PARA MEJOR VISUALIZACIÓN.
+* Para fines presentativos hubiese sido mejor utilizar jupyter notebook, pero no nos dio el tiempo.
