@@ -14,20 +14,17 @@ Tras realizar un analisis exploratorio de todas las tablas y sus variables, deci
 ## Hipótesis 1
 Analizar la incidencia del tipo de cambio (dolar) y el IPIM en los porcentajes de la producción que se destinan a consumo interno y a las exportaciones.
 
-Si sube más el IPIM que el tipo de cambio, ¿Mayor porcentaje de la producción es destinado a consumo interno?
+Si sube más el IPIM que el tipo de cambio --> ¿Mayor porcentaje de la producción es destinado a consumo interno?
 
-Si sube más el tipo de cambio que el IPIM, ¿Mayor porcentaje de la producción es destinado a exportaciones?
+Si sube más el tipo de cambio que el IPIM --> ¿Mayor porcentaje de la producción es destinado a exportaciones?
 
 [IPIM](https://www.indec.gob.ar/ftp/cuadros/economia/sint_met_sipm.pdf) --> Tiene por objeto medir la evolución promedio de los precios a los que el productor y/o importador directo vende sus productos en el mercado doméstico.
 
 ### Variables de Interés
-* IPIM y Dolar, expresado como variaciones porcentuales con respecto al mes anterior. OJO CON ESTO QUE NO ES TAN ASI.
+* IPIM y Dolar
 * Consumo Interno y Exportaciones, expresado como porcentajes relativos. Consumo Interno (%) = Consumo Interno / Consumo Interno + Exportaciones
 
-Para analizar esto ¿QUE HAGOOOOOOOOOOOOOOOOOO? --> En base a eso veo si aclaro que exprese las variables como variaciones porcentuales o las deje asi.
-
-El IPIM y el Dolar lo expresamos como variaciones porcentuales con respecto al mes anterior porque debido a la inflación siempre van a aumentar. OJO DEPENDE COMO LO HAGA
-
+Para analizar esto haremos un analisis de regresion entre el Consumo Interno expresado en porcentaje y el IPIM y entre las Exportaciones expresadas como porcentaje del total y el Dolar.
 
 ## Hipótesis 2
 Analizar como influye el tipo de cambio en la produccion total. ¿A mayor tipo de cambio más producción?. 
