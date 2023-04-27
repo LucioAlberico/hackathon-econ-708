@@ -25,17 +25,18 @@ Si sube más el tipo de cambio que el IPIM --> ¿Mayor porcentaje de la producci
 * Consumo Interno y Exportaciones, expresado como porcentajes relativos. Consumo Interno (%) = Consumo Interno / Producción Total.
 
 **Análisis**:
-* Análsis de regresión entre el IPIM y el Consumo Interno (expresado en pct).
+* Análisis de regresión entre el IPIM y el Consumo Interno (expresado en pct).
 * Análisis de regresión entre Dólar y Exportaciones (expresadas en pct).
 
 ### Conclusión 1 (Primera Parte)
 Al ver el [grafico_1a](https://raw.githubusercontent.com/LucioAlberico/hackathon-econ-708/main/grafico_1a.png) (relación entre el Dólar y las Exportaciones) podemos pensar que nuestra hipótesis es correcta. Sin embargo, analizando el [grafico_1b](https://raw.githubusercontent.com/LucioAlberico/hackathon-econ-708/main/grafico_1b.png) (relación entre el IPIM y el Consumo Interno) nos damos cuenta que *la correlacion entre el dolar y las exportaciones parece estar dada por una coincidencia temporal ya que la contraparte del supuesto (correlacion positiva entre IPIM y Consumo Interno) no se cumple*. Llegamos a esta conclusión porque consideramos que el aumento constante del IPIM y el tipo de cambio esta dado por la inflación, una variable fuertemente ligada al paso del tiempo.
 
 
-### Conclusión 2 (Segunda Parte)
-Nuevo Analisis: Buscamos comprender si hay algun tipo de relación temporal entre las variaciones porcentuales que se le
+### Conclusión 1 (Segunda Parte)
+**Nuevo Analisis**: Buscamos comprender si hay algun tipo de relación temporal entre las variaciones relativas de las Exportaciones y el Consumo Interno. ¿Que factores que no tomamos en cuenta incidieron?
 
-* Analsis temporal del consumo interno y las exportaciones FALTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+**Variables de Interés**: Consumo Interno, Exportaciones, Indice Temporal.
+
 
 ## Hipótesis 2
 Analizar como influye el tipo de cambio en la produccion total. ¿A mayor tipo de cambio más producción?. 
