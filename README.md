@@ -36,8 +36,10 @@ Analizar como influye el tipo de cambio en la produccion total. ¿A mayor tipo d
 Para analizar esto haremos un analisis de regresion entre la variable "total producido" y "dolar".
 
 ### Conclusión 2
-A partir del analisis visual que nos brinda el grafico 2. Podemos ver que *existe una correlación positiva entre el precio del dolar y el total producido*. De todas maneras, existe mucha variación entre el total producido a mismos niveles de dolar como para considerarlo un análisis concluyente.
+A partir del analisis visual que nos brinda el (grafico 2)[https://github.com/LucioAlberico/hackathon-econ-708/blob/main/grafico_2.png] (descargar para mejor visualización). Podemos ver que *existe una correlación positiva entre el precio del dolar y el total producido*. De todas maneras, existe mucha variación entre el total producido a mismos niveles de dolar como para considerarlo un análisis concluyente.
 
+
+Para fines presentativos hubiese sido mejor utilizar jupyter notebook, pero no nos dio el tiempo.
 
 ## Aclaración
 Debido a la falta de tiempo, no pudimos realizar un análisis completo, pero comprendemos que deberiamos incluir cuestiones como la inflación, las restricciones por parte del gobierno a las exportaciones y los precios de las comoditties (principalmente del ganado) a nivel internacional.
