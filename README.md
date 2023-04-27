@@ -6,7 +6,9 @@ CHEQUEAR TILDES Y ESCRITURA CHEQUEAR TILDES Y ESCRITURA CHEQUEAR TILDES Y ESCRIT
 
 ## Consigna
 Nos fue dado este [dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) con la consigna de realizar una analisis exploratorio de los
-datos y sacar alguna conclusión que nos pareciera de relevancia.
+datos y sacar alguna conclusión que nos pareciera de relevancia. 
+
+Para poder seguir de mejor manera el análisis realizado recomendamos descargar el script y correrlo en su computadora.
 
 ## Datasets elegidos
 Tras realizar un analisis exploratorio de todas las tablas y sus variables, decidimos utilizar las tablas (se encuentran en la carpeta):
