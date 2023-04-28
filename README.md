@@ -19,7 +19,7 @@ Si sube el IPIM --> ¿Mayor porcentaje de la producción es dedicado al consumo 
 
 Si sube el dólar --> ¿Mayor porcentaje de la producción es destinado a exportaciones?
 
-[IPIM](https://www.indec.gob.ar/ftp/cuadros/economia/sint_met_sipm.pdf) --> Indice de Precios al por Mayor. Tiene por objeto medir la evolución promedio de los precios a los que el productor y/o importador directo vende sus productos en el mercado doméstico.
+[IPIM](https://www.indec.gob.ar/ftp/cuadros/economia/sint_met_sipm.pdf) --> Indice de Precios Internos al por Mayor. Tiene por objeto medir la evolución promedio de los precios a los que el productor y/o importador directo vende sus productos en el mercado doméstico.
 
 ### Variables de Interés
 * IPIM y Dólar.
