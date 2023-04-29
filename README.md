@@ -3,7 +3,10 @@ El siguiente es un proyecto de practica realizado para la materia "Economía y p
 Grupo 4, Tema A.
 
 ## Consigna
-Nos fue dado este [dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) acerca de la producción bovina y agricola con la consigna de realizar una analisis exploratorio de los datos y sacar alguna conclusión que nos pareciera de relevancia. 
+Nos fue dado este <a href="(https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0" target="_blank">dataset</a>
+
+
+[dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) acerca de la producción bovina y agricola con la consigna de realizar una analisis exploratorio de los datos y sacar alguna conclusión que nos pareciera de relevancia. 
 
 Para poder seguir de mejor manera el análisis realizado recomendamos descargar el script de R y correrlo en su computadora. Los nombres de cada gráfico están al final del documento.
 
