@@ -5,8 +5,6 @@ Grupo 4, Tema A.
 ## Consigna
 Nos fue dado este [dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) acerca de la producción bovina y agricola con la consigna de realizar una analisis exploratorio de los datos y sacar alguna conclusión que nos pareciera de relevancia. 
 
-<a target="_blank" rel="noopener" href="https://www.google.com">external link</a>
-
 Para poder seguir de mejor manera el análisis realizado recomendamos descargar el script de R y correrlo en su computadora. Los nombres de cada gráfico están al final del documento.
 
 ## Datasets elegidos
