@@ -1,6 +1,4 @@
 # hackathon-econ-708
-El siguiente es un proyecto de practica realizado para la materia "Economía y procesamiento de datos no tradicionales", Catedra Victoria Semeshenko.
-
 ## Consigna
 Nos fue dado este [dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) acerca de la producción bovina y agricola con la consigna de realizar una análisis exploratorio de los datos y sacar alguna conclusión que nos pareciera de relevancia. 
 
