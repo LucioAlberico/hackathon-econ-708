@@ -1,9 +1,8 @@
 # hackathon-econ-708
 El siguiente es un proyecto de practica realizado para la materia "Economía y procesamiento de datos no tradicionales", Catedra Victoria Semeshenko.
-Grupo 4, Tema A.
 
 ## Consigna
-Nos fue dado este [dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) acerca de la producción bovina y agricola con la consigna de realizar una analisis exploratorio de los datos y sacar alguna conclusión que nos pareciera de relevancia. 
+Nos fue dado este [dataset](https://www.datos.gob.ar/dataset?tags=bovinos&groups=agri&_tags_limit=0) acerca de la producción bovina y agricola con la consigna de realizar una análisis exploratorio de los datos y sacar alguna conclusión que nos pareciera de relevancia. 
 
 Para poder seguir de mejor manera el análisis realizado recomendamos descargar el script de R y correrlo en su computadora. Los nombres de cada gráfico están al final del documento.
 
@@ -53,7 +52,7 @@ Analizar como influye el tipo de cambio en la producción total --> ¿A mayor ti
 Haremos un analisis de regresión entre la variable "total producido" y "dolar".
 
 ### Conclusión 2
-A partir del analisis visual que nos brinda el [grafico 2](https://raw.githubusercontent.com/LucioAlberico/hackathon-econ-708/main/grafico_2.png). Podemos ver que **existe una correlación positiva entre el tipo de cambio y el total producido**. De todas maneras, existe mucha variación entre el total producido a mismos niveles de dólar como para considerarlo un análisis concluyente.
+A partir del analisis visual que nos brinda el [grafico 2](https://raw.githubusercontent.com/LucioAlberico/hackathon-econ-708/main/grafico_2.png). Podemos ver que **existe una correlación positiva entre el tipo de cambio y el total producido**. De todas maneras, existe mucha variación entre el total producido a mismos niveles de dólar como para considerarlo un análisis concluyente. Esto se aprecia al calcular la bondad de ajuste. R^2 = 0.3448346.
 
 
 ## Graficos
@@ -68,4 +67,3 @@ Por falta de tiempo:
 * No pudimos realizar un análisis completo, pero comprendemos que deberiamos incluir datos acerca de la inflación, las restricciones por parte del gobierno a las exportaciones y los precios internacionales de las commodities (principalmente del ganado) para realizar un analisis concluyente. Somos concientes de que las notas de diario no pueden ser consideradas de ninguna manera fuentes oficiales o veridicas de datos. Las utilizamos simplemente para dar contexto historico.
 * No pudimos utilizar Jupyter Notebook para la presentación, lo que nos hubiese permitido integrar los gráficos a las respuestas.
 * En el grafico 1c hubiese quedado mejor que calculemos primero la variacion año a año de las exportaciones y el consumo interno, para ver el cambio.
-* No pudimos agregar un análisis matematico de las variaciones y nos enfocamos solo en lo visual.
